@@ -1,6 +1,6 @@
 # Math Soccer
-Es un juego realizado en **B4A** que consta de 4 pantallas las cuales son: *Inicio, Instrucciones, Configuraciones y Juego*.
-Contiene caracteristicas como sonido, 4 diferentes pantallas de juego y animacion de celebracio.
+Es un juego realizado en **B4A** que consta de 4 pantallas las cuales son: *Inicio, Instrucciones, Configuraciones y Juego*.!
+Contiene caracteristicas como sonido, 4 diferentes pantallas de juego y animacion de celebracion.
 
 
 ### Para visualizar
